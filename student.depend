@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1762753658 source:c:\users\hp\documents\codeblocks_25.03\codeblocks_25.03\student\student.c
+	<stdio.h>
+
+1762753505 source:c:\users\hp\documents\codeblocks_25.03\codeblocks_25.03\student\arithmetic operation.c
+	<stdio.h>
+
+1762754241 source:c:\users\hp\documents\codeblocks_25.03\codeblocks_25.03\student\icrement,decrement operator.c
+	<stdio.h>
+
